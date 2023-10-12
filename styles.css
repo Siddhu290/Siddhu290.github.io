@@ -8,7 +8,7 @@
 .header {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(3, 122, 124, 0.5), rgba(5, 0, 136, 0.5)), url(Background.jfif);
+    background-image: linear-gradient(rgba(3, 122, 124, 0.5), rgba(5, 0, 136, 0.5)), url(Back.jfif);
     background-position: center;
     background-size: cover;
     overflow-x: hidden;
