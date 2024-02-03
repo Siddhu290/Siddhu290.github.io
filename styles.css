@@ -27,13 +27,17 @@ nav {
 }
 
 .logo {
-    font-family: 'Your Preferred Font', sans-serif; /* Add your preferred font family */
-    font-size: 24px; /* Adjust the font size as needed */
-    font-weight: bold; /* Adjust the font weight as needed */
-    color: #333; /* Adjust the text color as needed */
-    text-align: center; /* Center the text */
-    padding: 10px; /* Add padding as needed */
-    background-color: #f0f0f0; /* Add background color as needed */
+    font-family: 'Your Preferred Font', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Transparent black background */
+    border-radius: 10px; /* Add rounded corners */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Add a subtle text shadow */
+}
+
 }
 
 nav ul li{
