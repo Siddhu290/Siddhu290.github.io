@@ -26,17 +26,16 @@ nav {
     background: linear-gradient(to right, #109db2, #dc1a8e);
 }
 
-nav.logo{
-    display: flex;
-    align-items: center;
-    font-size: 26px;
-    font-weight: 600;
-    color: #fff;
+.logo {
+    font-family: 'Your Preferred Font', sans-serif; /* Add your preferred font family */
+    font-size: 24px; /* Adjust the font size as needed */
+    font-weight: bold; /* Adjust the font weight as needed */
+    color: #333; /* Adjust the text color as needed */
+    text-align: center; /* Center the text */
+    padding: 10px; /* Add padding as needed */
+    background-color: #f0f0f0; /* Add background color as needed */
 }
-nav .logo img{
-    width: 60px;
-    margin-right: 10px;
-}
+
 nav ul li{
     display: inline-block;
     list-style: none;
