@@ -33,9 +33,7 @@ nav {
     color: #fff; /* White text color */
     text-align: center;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5); /* Transparent black background */
-    border-radius: 10px; /* Add rounded corners */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Add a subtle text shadow */
+
 }
 
 
